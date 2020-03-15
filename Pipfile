@@ -6,10 +6,10 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-django = "==2.2.11"
 setuptools = "*"
 urllib3 = "*"
 gunicorn = "*"
+django = "==2.2.11"
 
 [requires]
 python_version = "3.6"
